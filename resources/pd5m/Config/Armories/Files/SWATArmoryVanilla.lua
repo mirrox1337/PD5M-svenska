@@ -20,7 +20,7 @@ SWATArmory = {
     },
   },
   {
-    name = "MP5",
+    name = "Submachine gun",
     handle = "weapon_smg",
     table = "Weapon",
     ammo = 300,
@@ -42,7 +42,7 @@ SWATArmory = {
     },
   },
   {
-    name = "Automatkarbin",
+    name = "Carbine",
     handle = "weapon_carbinerifle",
     table = "Weapon",
     ammo = 300,
@@ -64,7 +64,29 @@ SWATArmory = {
     },
   },
   {
-    name = "Hagelgevär",
+    name = "Special Carbine",
+    handle = "weapon_specialcarbine",
+    table = "Weapon",
+    ammo = 300,
+    armor = {
+      IsArmor = false,
+      ArmorValue = 0,
+      CompVars = {
+        Male = {},
+        Female = {},
+      },
+    },
+    attachments = {
+      HasAttachments = true,
+      Components = {
+        {"COMPONENT_AT_AR_AFGRIP", 'Grip'},
+        {"COMPONENT_AT_AR_FLSH", 'Flashlight'},
+        {"COMPONENT_AT_SCOPE_MEDIUM", 'Scope'},
+      },
+    },
+  },
+  {
+    name = "Shotgun",
     handle = "weapon_heavyshotgun",
     table = "Weapon",
     ammo = 300,
@@ -86,7 +108,7 @@ SWATArmory = {
     },
   },
   {
-    name = "Krypskyttsgevär",
+    name = "Sniper Rifle",
     handle = "weapon_sniperrifle",
     table = "Weapon",
     ammo = 100,
@@ -106,7 +128,7 @@ SWATArmory = {
     },
   },
   {
-    name = "Tårgas",
+    name = "Tear gas",
     handle = "weapon_smokegrenade",
     table = "Equipment",
     ammo = 5,

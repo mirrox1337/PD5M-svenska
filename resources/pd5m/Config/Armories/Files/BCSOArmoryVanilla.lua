@@ -15,7 +15,67 @@ BCSOArmory = {
     attachments = {
       HasAttachments = true,
       Components = {
-        {'COMPONENT_AT_PI_FLSH', 'Ficklampa'}
+        {'COMPONENT_AT_PI_FLSH', 'Flashlight'}
+      },
+    },
+  },
+  {
+    name = "Submachine gun",
+    handle = "weapon_smg",
+    table = "Weapon",
+    ammo = 300,
+    armor = {
+      IsArmor = false,
+      ArmorValue = 0,
+      CompVars = {
+        Male = {},
+        Female = {},
+      },
+    },
+    attachments = {
+      HasAttachments = false,
+      Components = {
+        {}
+      },
+    },
+  },
+  {
+    name = "Shotgun",
+    handle = "weapon_pumpshotgun",
+    table = "Weapon",
+    ammo = 80,
+    armor = {
+      IsArmor = false,
+      ArmorValue = 0,
+      CompVars = {
+        Male = {},
+        Female = {},
+      },
+    },
+    attachments = {
+      HasAttachments = true,
+      Components = {
+        {'COMPONENT_AT_AR_FLSH', 'Flashlight'}
+      },
+    },
+  },
+  {
+    name = "Flaregun",
+    handle = "weapon_flaregun",
+    table = "Weapon",
+    ammo = 20,
+    armor = {
+      IsArmor = false,
+      ArmorValue = 0,
+      CompVars = {
+        Male = {},
+        Female = {},
+      },
+    },
+    attachments = {
+      HasAttachments = false,
+      Components = {
+        {}
       },
     },
   },

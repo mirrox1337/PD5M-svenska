@@ -866,7 +866,7 @@ AddEventHandler('pd5m:int:showdriverlicence', function(target)
 	AddTextComponentSubstringPlayerName("~y~Efternamn:			~s~" .. Surname .. "~n~ ~y~Förnamn:		~s~" .. FirstName .. "~n~ ~y~Kön:			~s~" .. PedGender .. "~n~ ~y~Date of")
 	AddTextComponentSubstringPlayerName("Birth:		~s~" .. DateOfBirth)
 
-	EndTextCommandThefeedPostMessagetext(PedHeadString, PedHeadString, false, 4, 'Id-kort', "~g~" .. RandomID)
+	EndTextCommandThefeedPostMessagetext(PedHeadString, PedHeadString, false, 4, 'Id-kort', "~g~" .. RandomLicenceID)
 	EndTextCommandThefeedPostTicker(false, false)
 
 	UnregisterPedheadshot(PedHeadHandle)

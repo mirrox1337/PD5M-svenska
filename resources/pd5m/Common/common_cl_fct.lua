@@ -67,23 +67,31 @@ function PrintTextOverPedHead(TalkingPed, text, displaytime)
 		CreateThread(function()
 		while CurrentlyDisplayingList["" .. PedNetID] == true do
 			local tx,ty,tz = table.unpack(GetEntityCoords(TalkingPed, false))
-			local px,py,pz = table.unpack(GetEntityCoords(GetPlayerPed(-1), false))
+			local px,py,pz = table.unpack(GetGameplayCamCoord())
 			local dist = GetDistanceBetweenCoords(px,py,pz, tx,ty,tz, 1)
-			tz = tz + 1.14
-			local onScreen,_x,_y = GetScreenCoordFromWorldCoord(tx,ty,tz)
-			local scale = ((1/math.sqrt(dist))*2)*(1/GetGameplayCamFov())*100
+			local onScreen,_x,_y = World3dToScreen2d(tx,ty,tz + 1)
+			local scale = ((1/dist)*2)*(1/GetGameplayCamFov())*100
 			if HasEntityClearLosToEntity(GetPlayerPed(-1), TalkingPed, 17) then
+				-- Formalize the text
 				SetTextColour(color.r, color.g, color.b, color.alpha)
 				SetTextScale(0.0*scale, 0.45*scale)
 				SetTextFont(font)
 				SetTextProportional(1)
-				SetTextWrap(0.25, 0.75)
 				SetTextCentre(true)
-				
-				BeginTextCommandDisplayText("STRING")
+				SetTextDropshadow(10, 100, 100, 100, 255)
+		
+				-- Calculate width and height
+				BeginTextCommandWidth("STRING")
+				AddTextComponentString(text)
+				local height = GetTextScaleHeight(0.55*scale, font)
+				local width = EndTextCommandGetWidth(font)
+		
+				-- Diplay the text
+				SetTextEntry("STRING")
+				SetTextCentre(true)
 				AddTextComponentString(text)
 				EndTextCommandDisplayText(_x, _y)
-				DrawRect(_x, _y+scale/65, width + 0.01, height + 0.00, background.color.r, background.color.g, background.color.b , background.color.alpha)
+				DrawRect(_x, _y+scale/65, width + 0.01, height + 0.00, backgroundcolor.r, backgroundcolor.g, backgroundcolor.b , backgroundcolor.alpha)
 			end
 			Wait(0)
 		end

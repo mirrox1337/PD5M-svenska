@@ -33,9 +33,9 @@ local ListLSPDWeapons = {
 }
 
 for i, option in ipairs(LSPDArmory) do
-  if option.table == 'Utrustning' then
+  if option.table == 'Equipment' then
     table.insert(ListLSPDEquipment.data, option)
-  elseif option.table == 'Vapen' then
+  elseif option.table == 'Weapon' then
     table.insert(ListLSPDWeapons.data, option)
   end
 end
@@ -62,9 +62,9 @@ local ListBCSOWeapons = {
 }
 
 for i, option in ipairs(BCSOArmory) do
-  if option.table == 'Utrustning' then
+  if option.table == 'Equipment' then
     table.insert(ListBCSOEquipment.data, option)
-  elseif option.table == 'Vapen' then
+  elseif option.table == 'Weapon' then
     table.insert(ListBCSOWeapons.data, option)
   end
 end
@@ -91,9 +91,9 @@ local ListSASPWeapons = {
 }
 
 for i, option in ipairs(SASPArmory) do
-  if option.table == 'Utrustning' then
+  if option.table == 'Equipment' then
     table.insert(ListSASPEquipment.data, option)
-  elseif option.table == 'Vapen' then
+  elseif option.table == 'Weapon' then
     table.insert(ListSASPWeapons.data, option)
   end
 end
@@ -120,9 +120,9 @@ local ListSAPRWeapons = {
 }
 
 for i, option in ipairs(SAPRArmory) do
-  if option.table == 'Utrustning' then
+  if option.table == 'Equipment' then
     table.insert(ListSAPREquipment.data, option)
-  elseif option.table == 'Vapen' then
+  elseif option.table == 'Weapon' then
     table.insert(ListSAPRWeapons.data, option)
   end
 end
@@ -149,9 +149,9 @@ local ListSWATWeapons = {
 }
 
 for i, option in ipairs(SWATArmory) do
-  if option.table == 'Utrustning' then
+  if option.table == 'Equipment' then
     table.insert(ListSWATEquipment.data, option)
-  elseif option.table == 'Vapen' then
+  elseif option.table == 'Weapon' then
     table.insert(ListSWATWeapons.data, option)
   end
 end

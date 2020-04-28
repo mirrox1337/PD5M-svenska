@@ -1,6 +1,6 @@
 GENArmory = {
   {
-    name = "Batong",
+    name = "Baton",
     handle = "weapon_nightstick",
     table = "Equipment",
     ammo = 1,
@@ -20,7 +20,7 @@ GENArmory = {
     },
   },
   {
-    name = "Ficklampa",
+    name = "Flashlight",
     handle = "weapon_flashlight",
     table = "Equipment",
     ammo = 1,
@@ -40,7 +40,27 @@ GENArmory = {
     },
   },
   {
-    name = "Elchockpistol",
+    name = "Flare",
+    handle = "weapon_flare",
+    table = "Equipment",
+    ammo = 10,
+    armor = {
+      IsArmor = false,
+      ArmorValue = 0,
+      CompVars = {
+        Male = {},
+        Female = {},
+      },
+    },
+    attachments = {
+      HasAttachments = false,
+      Components = {
+        {}
+      },
+    },
+  },
+  {
+    name = "Tazer",
     handle = "weapon_stungun",
     table = "Weapon",
     ammo = 1,
@@ -60,13 +80,13 @@ GENArmory = {
     },
   },
   {
-    name = "Gömd Skyddsväst (25%)",
+    name = "Underarmor Vest",
     handle = "",
     table = "Equipment",
     ammo = 0,
     armor = {
       IsArmor = true,
-      ArmorValue = 25,
+      ArmorValue = 75,
       CompVars = {
         Male = {
           {9, 0, 0},
@@ -84,7 +104,7 @@ GENArmory = {
     },
   },
   {
-    name = "Skottsäker Skyddsväst (100%)",
+    name = "Bulletproof Vest",
     handle = "",
     table = "Equipment",
     ammo = 0,
@@ -110,13 +130,13 @@ GENArmory = {
     },
   },
   {
-    name = "Skyddväst (50%)",
+    name = "Stabproof Vest",
     handle = "",
     table = "Equipment",
     ammo = 0,
     armor = {
       IsArmor = true,
-      ArmorValue = 50,
+      ArmorValue = 100,
       CompVars = {
         Male = {
           {9, 4, 1},
