@@ -40,14 +40,14 @@ menuConfigs = {
                     navAngle = 270,                 -- Oritentation of wheel
                     minRadiusPercent = 0.3,         -- Minimum radius of wheel in percentage
                     maxRadiusPercent = 0.6,         -- Maximum radius of wheel in percentage
-                    labels = {"BREATHALYZER", "FOLLOW", "", "HANDCUFF", "FINE PED"},
+                    labels = {"Alkoholmätare", "Följ Efter", "", "Handfängsel", "Bötfäll PED"},
                     commands = {"pd5m:int:breathalyzer", "pd5m:int:letpedfollow", "", "pd5m:int:arrestped", "pd5m:int:fineped"}
                 },
                 {
                     navAngle = 288,                 -- Oritentation of wheel
                     minRadiusPercent = 0.6,         -- Minimum radius of wheel in percentage
                     maxRadiusPercent = 0.9,         -- Maximum radius of wheel in percentage
-                    labels = {"DRUGTEST", "RUN PLATE", "RUN ID", "CORONER", "TOW", "GRAB", "PACK", "SEIZE CAR", "SEIZE ITEMS", "SEARCH"},
+                    labels = {"Drog Test", "Sök Regnr", "Sök ID", "CORONER", "Bärga", "Eskortera", "Sätt i Fordon", "Konfiskera Fordon", "Konfiskera Föremål", "Sök"},
                     commands = {"pd5m:int:drugtest", "pd5m:int:runplate", "pd5m:int:runid", "pd5m:service:callcoroner", "pd5m:tow:calltowtruck", "pd5m:int:grabped", "pd5m:int:packejectped", "pd5m:int:seizecar", "pd5m:int:confiscateitems", "pd5m:int:search"}
                 }
             }
@@ -93,7 +93,7 @@ menuConfigs = {
                     navAngle = 315,                 -- Oritentation of wheel
                     minRadiusPercent = 0.4,         -- Minimum radius of wheel in percentage
                     maxRadiusPercent = 0.9,         -- Maximum radius of wheel in percentage
-                    labels = {"RUNID", "RUNPLATE", "TRAFFIC STOP", "EJECT"},
+                    labels = {"Sök ID", "Sök Regnr", "Trafikstop", "EJECT"},
                     commands = {"pd5m:int:runid", "pd5m:int:runplate", "pd5m:int:initstopcar", "pd5m:int:packejectped"}
                 }
             }

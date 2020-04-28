@@ -16,7 +16,7 @@ RegisterNetEvent('pd5m:service:callcoroner')
 AddEventHandler('pd5m:service:callcoroner', function()
 	if flagcalledcoroner then
 		TriggerEvent('pd5m:service:abortcoroner')
-		Notify('Coroner aborted')
+		Notify('~r~Coroner avbröts')
 		flagcalledcoroner = false
 	else
 		TriggerEvent('pd5m:service:initcoroner')
@@ -82,10 +82,10 @@ AddEventHandler('pd5m:service:initcoroner', function()
 
 	BeginTextCommandThefeedPost("TWOSTRINGS")
 
-	AddTextComponentSubstringPlayerName("A coroner has been dispatched from ~o~" .. list_handles[station.handle][1].handles[station.handle].stationname .. "~s~.")
-	AddTextComponentSubstringPlayerName("It will arrive in approximately ~o~" .. traveltime .. "~s~ minutes.")
+	AddTextComponentSubstringPlayerName("En koroner har skickats från ~o~" .. list_handles[station.handle][1].handles[station.handle].stationname .. "~s~.")
+	AddTextComponentSubstringPlayerName("Den kommer in cirka ~o~" .. traveltime .. "~s~ minuter.")
 
-	EndTextCommandThefeedPostMessagetext("CHAR_CALL911", "CHAR_CALL911", false, 4, 'County of Los Santos', 'Department of Coroner')
+	EndTextCommandThefeedPostMessagetext("CHAR_CALL911", "CHAR_CALL911", false, 4, 'County of Los Santos', 'Institutionen för Coroner')
 	EndTextCommandThefeedPostTicker(false, false)
 
 	local coroner = CreateVehicle(vehiclehash, stationvec.x, stationvec.y, stationvec.z, stationvec.angle, true, false)
