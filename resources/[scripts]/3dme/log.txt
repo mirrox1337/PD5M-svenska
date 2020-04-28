@@ -1,0 +1,623 @@
+﻿
+04/12/2019 21:02:17 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 21:14:01 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 21:14:14 : Mirrox - steam:110000109c2ddf3 :  test tet  
+04/12/2019 21:34:51 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 21:35:19 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 21:35:45 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 21:37:09 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 21:37:28 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 21:46:21 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 21:47:37 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 21:50:45 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 21:51:10 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 21:51:31 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 21:51:54 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 21:55:01 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 21:56:56 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 21:57:36 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 21:57:46 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 21:58:10 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 21:58:46 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 21:59:20 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 21:59:35 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 21:59:51 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 22:00:45 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 22:00:59 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 22:01:51 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 22:04:14 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 22:10:20 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 22:10:27 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 22:11:03 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 22:11:34 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 22:12:01 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 22:12:33 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 22:15:08 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 22:15:12 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 22:17:00 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 22:21:07 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 22:21:25 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 22:22:12 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 22:22:29 : Mirrox - steam:110000109c2ddf3 :  test  
+04/12/2019 22:26:59 : Mirrox - steam:110000109c2ddf3 :  test  
+06/12/2019 08:07:12 : Mirrox - steam:110000109c2ddf3 :  test  
+09/12/2019 14:23:38 : Vixen - steam:11000011594e044 :  tar fram redskap  
+09/12/2019 14:24:10 : Vixen - steam:11000011594e044 :  kollar puls och andning  
+09/12/2019 14:24:48 : Vixen - steam:11000011594e044 :  tar första hjälpen lådan.  
+09/12/2019 14:24:53 : Vixen - steam:11000011594e044 :  kollar efter skador  
+09/12/2019 14:25:27 : Vixen - steam:11000011594e044 :  tar tryckförband  
+09/12/2019 14:25:42 : Vixen - steam:11000011594e044 :  lindar runt såret på benet.  
+09/12/2019 14:26:22 : Vixen - steam:11000011594e044 :  tar PVK  
+09/12/2019 14:26:35 : Vixen - steam:11000011594e044 :  spritar handen på personen  
+09/12/2019 14:27:04 : Vixen - steam:11000011594e044 :  slår lätt på handen, letar efter en fin blodådra  
+09/12/2019 14:27:31 : Vixen - steam:11000011594e044 :  sätter in pvk:n  
+09/12/2019 14:27:46 : Vixen - steam:11000011594e044 :  avslutar med ett blåster runtom.  
+09/12/2019 14:31:51 : Vixen - steam:11000011594e044 :  tar fram en utdagbar bår  
+09/12/2019 14:32:36 : Vixen - steam:11000011594e044 :  får upp personen på vänster sida, lägger under en plastbräda  
+09/12/2019 14:32:55 : Vixen - steam:11000011594e044 :  vänder på personen igen och rättar till plastbrädan  
+09/12/2019 14:33:13 : Vixen - steam:11000011594e044 :  gör samma sak vid benen  
+09/12/2019 14:33:24 : Vixen - steam:11000011594e044 :  sänker ner båren  
+09/12/2019 14:33:40 : Vixen - steam:11000011594e044 :  tar tag i båda handtagen och drar upp personen på båren.  
+09/12/2019 14:33:51 : Vixen - steam:11000011594e044 :  höjer upp den.  
+09/12/2019 14:34:00 : Vixen - steam:11000011594e044 :  sätter på syrgas  
+09/12/2019 14:34:13 : Vixen - steam:11000011594e044 :  för in personen i bilen  
+09/12/2019 14:35:33 : Vixen - steam:11000011594e044 :  tar ut båren  
+09/12/2019 14:36:37 : Vixen - steam:11000011594e044 :  placerar båren i höjd med bordet  
+09/12/2019 14:36:46 : Vixen - steam:11000011594e044 :  tar sprit och papper  
+09/12/2019 14:36:49 : Vixen - steam:11000011594e044 :  torkar av  
+09/12/2019 14:37:31 : Vixen - steam:11000011594e044 :  tar tag i plastbitarna och drar emot kroppen  
+09/12/2019 14:37:38 : Vixen - steam:11000011594e044 :  får upp personen på bordet  
+09/12/2019 14:37:57 : Vixen - steam:11000011594e044 :  tar fram suturkit  
+09/12/2019 14:38:11 : Vixen - steam:11000011594e044 :  klipper upp byxbenet  
+09/12/2019 14:38:35 : Hasse Berg - steam:11000010d336fe7 :  vinkar  
+09/12/2019 14:38:43 : Vixen - steam:11000011594e044 :  ler  
+09/12/2019 14:39:31 : Vixen - steam:11000011594e044 :  tar sårrengörning  
+09/12/2019 14:39:41 : Vixen - steam:11000011594e044 :  gör rent runt knivsåret.  
+09/12/2019 14:40:47 : Vixen - steam:11000011594e044 :  tar en tång och kollar i såret.  
+09/12/2019 14:41:38 : Vixen - steam:11000011594e044 :  kollar så att ingen kroppspulsåder skadats  
+09/12/2019 14:42:07 : eriz - steam:11000010adb7d12 :  stoppar in all tramadol i fickan  
+09/12/2019 14:51:47 : eriz - steam:11000010adb7d12 :  spottar blod  
+09/12/2019 14:51:55 : Vixen - steam:11000011594e044 :  torkar blodet från munnen  
+09/12/2019 14:52:04 : eriz - steam:11000010adb7d12 :  medvetslös  
+09/12/2019 14:52:12 : Vixen - steam:11000011594e044 :  kollar puls  
+09/12/2019 14:52:21 : eriz - steam:11000010adb7d12 :  sväning puls  
+09/12/2019 14:52:28 : eriz - steam:11000010adb7d12 :  tung andning  
+09/12/2019 14:53:02 : Vixen - steam:11000011594e044 :  kollar efter skador  
+09/12/2019 14:53:21 : eriz - steam:11000010adb7d12 :  skrapsår på ryggen  
+09/12/2019 14:53:44 : Vixen - steam:11000011594e044 :  vänder personen i stabilt sidoläge och frigör luftvägar så att andningen blir bättre.  
+09/12/2019 14:54:05 : eriz - steam:11000010adb7d12 :  andas stabilt  
+09/12/2019 14:54:31 : eriz - steam:11000010adb7d12 :  medvetslös  
+09/12/2019 14:54:43 : Vixen - steam:11000011594e044 :  sätter på en pvk  
+09/12/2019 14:55:05 : eriz - steam:11000010adb7d12 :  penis vecklings kastrering  
+09/12/2019 14:55:18 : eriz - steam:11000010adb7d12 :  = pvk  
+09/12/2019 14:55:33 : eriz - steam:11000010adb7d12 :  tappar 1 tramadol från fickan  
+09/12/2019 14:56:02 : Vixen - steam:11000011594e044 :  Kollar sätter på plåster så att pvkn sitter fast  
+09/12/2019 14:56:41 : Vixen - steam:11000011594e044 :  tar fram en utfälldbarbår  
+09/12/2019 14:57:16 : Vixen - steam:11000011594e044 :  tar 2 förflyttningsbrädor  
+09/12/2019 14:57:27 : Vixen - steam:11000011594e044 :  sänger ner båren till marken  
+09/12/2019 14:57:50 : Vixen - steam:11000011594e044 :  tar förflyttningsbrädorna vid ryggen  
+09/12/2019 14:58:03 : Vixen - steam:11000011594e044 :  flyttar över personen bort från mig  
+09/12/2019 14:58:09 : Vixen - steam:11000011594e044 :  drar under den  
+09/12/2019 14:59:08 : Vixen - steam:11000011594e044 :  tar tag i handtagen  
+09/12/2019 14:59:16 : Vixen - steam:11000011594e044 :  drar dem mot kroppen upp på båren  
+09/12/2019 15:00:01 : Vixen - steam:11000011594e044 :  drar båren  
+09/12/2019 15:00:34 : Vixen - steam:11000011594e044 :  placerar i bilen, sätter på syrgas  
+09/12/2019 15:03:11 : Vixen - steam:11000011594e044 :  kopplar loss båren och drar ut båren  
+09/12/2019 15:03:57 : Vixen - steam:11000011594e044 :  placerar båren i höjd med bordet  
+09/12/2019 15:04:25 : Vixen - steam:11000011594e044 :  tar tag i plastbitarna  
+09/12/2019 15:04:39 : Vixen - steam:11000011594e044 :  drar patienten mot kroppen upp på bordet  
+09/12/2019 15:05:16 : Vixen - steam:11000011594e044 :  tar av västen  
+09/12/2019 15:06:04 : Vixen - steam:11000011594e044 :  kollar på ekg  
+09/12/2019 15:06:25 : Vixen - steam:11000011594e044 :  kopplar på ekg  
+09/12/2019 15:06:31 : Vixen - steam:11000011594e044 :  sätter på en pulsmätare  
+09/12/2019 15:07:11 : eriz - steam:11000010adb7d12 :  får stånd  
+09/12/2019 15:07:31 : Vixen - steam:11000011594e044 :  kopplar på syrgasen till en större tub  
+09/12/2019 15:07:44 : Vixen - steam:11000011594e044 :  tar röntgenplåt  
+09/12/2019 15:07:57 : eriz - steam:11000010adb7d12 :  bryten ryggrad  
+09/12/2019 15:08:38 : Vixen - steam:11000011594e044 :  sätter igång maskinen  
+09/12/2019 15:08:45 : Vixen - steam:11000011594e044 :  tar kort  
+09/12/2019 15:09:15 : Vixen - steam:11000011594e044 :  tar ner bilden  
+09/12/2019 15:09:54 : Vixen - steam:11000011594e044 :  kollar på bilden  
+09/12/2019 15:10:22 : Vixen - steam:11000011594e044 :  Kollar vad för typ av inre skador personen har  
+09/12/2019 15:10:37 : eriz - steam:11000010adb7d12 :  bryten ryggrad  
+09/12/2019 15:10:40 : eriz - steam:11000010adb7d12 :  får stånd  
+09/12/2019 15:10:48 : Vixen - steam:11000011594e044 :  kollar vart ryggraden är bryten  
+09/12/2019 15:10:56 : eriz - steam:11000010adb7d12 :  ner mot svanskotan  
+09/12/2019 15:11:23 : Vixen - steam:11000011594e044 :  kollar om det är ett djupt sår på kotan  
+09/12/2019 15:12:03 : Vixen - steam:11000011594e044 :  kollar om det är en fraktura  
+09/12/2019 15:13:28 : eriz - steam:11000010adb7d12 :  NO  
+09/12/2019 15:16:33 : Vixen - steam:11000011594e044 :  vänder patienten  
+09/12/2019 15:16:41 : Vixen - steam:11000011594e044 :  kopplar på narkos  
+09/12/2019 15:17:06 : Vixen - steam:11000011594e044 :  klipper upp byxbenet och tröjan  
+09/12/2019 15:17:21 : Vixen - steam:11000011594e044 :  placerar en operationsduk som täcker hela kroppen  
+09/12/2019 15:17:27 : Vixen - steam:11000011594e044 :  klipper upp vid ryggen  
+09/12/2019 15:17:40 : Vixen - steam:11000011594e044 :  gör rent runtom.  
+09/12/2019 15:18:40 : Vixen - steam:11000011594e044 :  tar en skalpel och tång  
+09/12/2019 15:18:48 : Vixen - steam:11000011594e044 :  gör ett snitt och öppnar upp.  
+09/12/2019 15:19:16 : Vixen - steam:11000011594e044 :  kollar om det finns skada på taggutskotten  
+09/12/2019 15:19:48 : Vixen - steam:11000011594e044 :  kollar om det finns skador på fasetlederna  
+09/12/2019 15:21:22 : Vixen - steam:11000011594e044 :  kollar om disken är skadad  
+09/12/2019 15:24:56 : Vixen - steam:11000011594e044 :  syr ihop  
+09/12/2019 18:33:59 : Vixen - steam:11000011594e044 :  tar kaffekoppen  
+09/12/2019 18:43:52 : OstenBror - steam:11000010c4e86de :  tar ut perifer venkateter  
+09/12/2019 18:45:10 : Hasse Berg - steam:11000010d336fe7 :  ler  
+09/12/2019 18:45:32 : Vixen - steam:11000011594e044 :  ger handen  
+09/12/2019 18:45:51 : OstenBror - steam:11000010c4e86de :  tar handen och försöker hitta blodvenen  
+09/12/2019 18:47:38 : Hasse Berg - steam:11000010d336fe7 :  rotar genom och ser om man hittar något gott  
+09/12/2019 18:49:05 : OstenBror - steam:11000010c4e86de :  tar fram rengörnings alkohol och bomullstussar  
+09/12/2019 18:50:00 : OstenBror - steam:11000010c4e86de :  tar rengörings alkohol och bomullstuss och gör rent på ovansidan handen vid blodven  
+09/12/2019 18:51:08 : OstenBror - steam:11000010c4e86de :  tar ett par latex handskar  
+09/12/2019 18:51:29 : OstenBror - steam:11000010c4e86de :  tar på handskar  
+09/12/2019 18:54:13 : OstenBror - steam:11000010c4e86de :  tar handen och letar efter en bra ven att sätta in PVKn i  
+09/12/2019 18:55:41 : OstenBror - steam:11000010c4e86de :  lägger PVKn nästan ner och trycker in den försiktigt i venen  
+09/12/2019 18:55:44 : Vixen - steam:11000011594e044 :  biter ihop och grimaserar smått.  
+09/12/2019 18:57:08 : Vixen - steam:11000011594e044 :  tittar på pvkn  
+09/12/2019 18:57:23 : OstenBror - steam:11000010c4e86de :  tar fram ett provrör till PVKn  
+09/12/2019 18:58:01 : OstenBror - steam:11000010c4e86de :  fäster provröret till PVKn  
+09/12/2019 19:01:06 : OstenBror - steam:11000010c4e86de :  kopplar bort provrör och stänger igen PVKn  
+09/12/2019 19:01:48 : OstenBror - steam:11000010c4e86de :  tar fram en bomullstuss och ett plåster  
+09/12/2019 19:03:06 : OstenBror - steam:11000010c4e86de :  drar ut PVKn försiktigt och trycker med bomullstussen på injektionshål  
+09/12/2019 19:04:32 : OstenBror - steam:11000010c4e86de :  tar bort bomullstuss för att se om det blöder mycket  
+09/12/2019 19:05:02 : OstenBror - steam:11000010c4e86de :  sätter på ett plåster på injektionshål  
+09/12/2019 19:06:07 : OstenBror - steam:11000010c4e86de :  tar av och slänger handskarna  
+09/12/2019 19:06:15 : Vixen - steam:11000011594e044 :  analyserar blodet  
+09/12/2019 19:11:25 : Vixen - steam:11000011594e044 :  städar undan efter mig  
+09/12/2019 19:12:41 : Vixen - steam:11000011594e044 :  lägger fram anställningspapper  
+09/12/2019 19:13:09 : OstenBror - steam:11000010c4e86de :  sträcker mig över bortet och tar pennan  
+09/12/2019 19:13:31 : OstenBror - steam:11000010c4e86de :  skriver på anställningspapper  
+09/12/2019 19:14:08 : OstenBror - steam:11000010c4e86de :  tar en kopia  
+10/12/2019 08:48:38 : Aequitas - steam:110000102bc7076 :  drar lite i snabeldraken  
+10/12/2019 08:48:51 : Fikru - steam:11000010406deaa :  ok  
+10/12/2019 21:10:17 : Lindströmaren #Grävnerryssland - steam:11000010264bd2e :  Testar  
+12/12/2019 23:23:44 : Hublot! - steam:110000103a7d6cd :  kollar puls  
+12/12/2019 23:23:53 : Texzas - steam:1100001090ef4b9 :  stabli puls  
+12/12/2019 23:25:15 : Hublot! - steam:110000103a7d6cd :  öppnar dörren  
+13/12/2019 18:45:17 : Celicia - steam:110000114fd7068 :  tar på Hasse  
+13/12/2019 19:06:35 : -staXx - steam:11000010538c76a :  Skirv under här!  
+13/12/2019 19:06:44 : Celicia - steam:110000114fd7068 :  skriver under med signatur  
+09/03/2020 17:09:07 : Milo - steam:11000010d336fe7 :  tar mannen på pungen  
+09/03/2020 17:12:53 : Milo - steam:11000010d336fe7 :  smeker mannen  
+09/03/2020 20:47:13 : Milo - steam:11000010d336fe7 :  han ee dod  
+09/03/2020 22:31:02 : xyz - steam:11000010040a1a5 :  asdas  
+09/03/2020 22:31:12 : xyz - steam:11000010040a1a5 :  asdasd  
+09/03/2020 22:31:47 : Milo - steam:11000010d336fe7 :  runkar  
+09/03/2020 22:32:06 : Milo - steam:11000010d336fe7 :  rdm grabbarna hälsar  
+13/03/2020 17:26:59 : Duvan - steam:11000011594e044 :  hej  
+13/03/2020 18:22:26 : Latitud355 - steam:110000114ac6a45 :  fimpar ciggaren  
+13/03/2020 18:29:40 : Latitud355 - steam:110000114ac6a45 :  lägger fram anstälningsavtal  
+13/03/2020 18:30:13 : Filipo - steam:110000112a1b14a :  skriver på med Diego Gonzalez 1995/06/03  
+13/03/2020 19:06:01 : Wincent - steam:11000011201878a :  lättar trycket på bojorna  
+13/03/2020 19:07:16 : NordlandeRR - steam:11000013f646266 :  clap clap  
+13/03/2020 19:08:08 : Wincent - steam:11000011201878a :  letar efter mannens skostorlek  
+13/03/2020 19:08:17 : NordlandeRR - steam:11000013f646266 :  noclue  
+13/03/2020 19:11:40 : Eris - steam:11000010cccf8ef :  låser  
+13/03/2020 19:27:01 : NordlandeRR - steam:11000013f646266 :  drar mig loss  
+13/03/2020 20:36:07 : Hamzza - steam:110000101663144 :  här  
+13/03/2020 20:36:25 : Hublot! - steam:110000103a7d6cd :  kollar puls  
+13/03/2020 20:36:27 : Hamzza - steam:110000101663144 :  har ont i huve  
+13/03/2020 20:36:45 : Hublot! - steam:110000103a7d6cd :  kollar puls  
+13/03/2020 20:37:05 : Hublot! - steam:110000103a7d6cd :  kollar puls och skador  
+13/03/2020 20:37:56 : Hublot! - steam:110000103a7d6cd :  kollar puls och skador  
+13/03/2020 20:38:59 : Hublot! - steam:110000103a7d6cd :  kollar puls och skador  
+13/03/2020 20:42:05 : Wincent - steam:11000011201878a :  öppnar dörren  
+13/03/2020 20:43:15 : Hublot! - steam:110000103a7d6cd :  hjälper mannen in i bilen  
+13/03/2020 20:45:54 : Hamzza - steam:110000101663144 :  rör han  
+13/03/2020 20:46:04 : Wincent - steam:11000011201878a :  låser dörrarna  
+13/03/2020 20:46:09 : Hamzza - steam:110000101663144 :  rör en gågon till  
+13/03/2020 20:47:08 : Hamzza - steam:110000101663144 :  försker bita  
+13/03/2020 20:53:41 : Askeet. - steam:11000011998d81d :  låser dörrar  
+13/03/2020 20:55:24 : Bounty - steam:1100001388d6555 :  söker på google  
+13/03/2020 20:59:32 : Bounty - steam:1100001388d6555 :  ser stressad ut  
+13/03/2020 21:07:48 : Lunaticc - steam:11000010bcaf2a3 :  tar upp borrmaskinen och leker the butcher  
+13/03/2020 21:07:58 : jonafrag - steam:11000010e5bd2c5 :  får borret i foten  
+13/03/2020 21:10:52 : Bounty - steam:1100001388d6555 :  hämtar nyckel  
+13/03/2020 21:30:32 : Hublot! - steam:110000103a7d6cd :  loggar in på polis datan  
+13/03/2020 21:30:42 : Hublot! - steam:110000103a7d6cd :  kollar upp adam adamsson  
+14/03/2020 04:26:58 : xRM - steam:11000010a756138 :  TUSNE PERS I DISCORDEN  
+14/03/2020 04:27:09 : SNabbDål - steam:11000010b4f64fc :  är rädd  
+14/03/2020 14:50:52 : MeYouKnow - steam:11000011b71626d :  Trycker på polisens ringklocka  
+14/03/2020 14:55:19 : MeYouKnow - steam:11000011b71626d :  Trycker på polisens ringklocka  
+14/03/2020 17:34:48 : chrono - steam:110000105dbc118 :  visar upp e-faktura  
+14/03/2020 17:36:57 : THEET.- - steam:11000010180b93b :  munchar  
+14/03/2020 17:42:42 : Askeet. - steam:11000011998d81d :  blöder  
+14/03/2020 17:42:47 : Askeet. - steam:11000011998d81d :  knivskuren  
+14/03/2020 17:44:28 : THEET.- - steam:11000010180b93b :  sätter sig bredvid mannen och pillar med fingret i näsan  
+14/03/2020 17:44:49 : Askeet. - steam:11000011998d81d :  blöder ut  
+14/03/2020 17:45:38 : Askeet. - steam:11000011998d81d :  blöder ut  
+14/03/2020 17:46:02 : Askeet. - steam:11000011998d81d :  närmar sig änglarna  
+14/03/2020 17:48:11 : THEET.- - steam:11000010180b93b :  tar mannen och öppnar byxorna  
+14/03/2020 17:48:24 : THEET.- - steam:11000010180b93b :  drar ner byxorna  
+14/03/2020 17:50:45 : Askeet. - steam:11000011998d81d :  sitter medvetslös med ned dragna byxor  
+14/03/2020 17:51:07 : Askeet. - steam:11000011998d81d :  ligger medvetslös med ned dragna byxor  
+14/03/2020 17:52:07 : Askeet. - steam:11000011998d81d :  tappat enormt mycket med blod  
+14/03/2020 17:52:23 : YONTANA - steam:11000010bcefa9e :  stoppar blödningen me hans tröja  
+14/03/2020 17:52:41 : Askeet. - steam:11000011998d81d :  ned dragna byxoe  
+14/03/2020 17:52:43 : Askeet. - steam:11000011998d81d :  ned dragna byxor  
+14/03/2020 17:52:48 : YONTANA - steam:11000010bcefa9e :  drar upp byxorna på mannen  
+14/03/2020 17:53:26 : Wincent - steam:11000011201878a :  undersöker mannens skador.  
+14/03/2020 17:53:39 : Askeet. - steam:11000011998d81d :  kniv skuren i midjan  
+14/03/2020 17:54:06 : Milo - steam:11000010d336fe7 :  tar fram first aid väskan  
+14/03/2020 17:54:32 : Milo - steam:11000010d336fe7 :  lägger ner väskan  
+14/03/2020 17:54:44 : Milo - steam:11000010d336fe7 :  rotar genom och tar fram tryck förband  
+14/03/2020 17:55:11 : Milo - steam:11000010d336fe7 :  börjar försiktigt sätta tryckförbandet mot kniv såret  
+14/03/2020 17:55:15 : Askeet. - steam:11000011998d81d :  hostar ut blod  
+14/03/2020 17:55:26 : Askeet. - steam:11000011998d81d :  pulsen sjunker  
+14/03/2020 17:55:37 : Milo - steam:11000010d336fe7 :  sätter tjep runtom så förbandet sitter  
+14/03/2020 17:55:55 : Milo - steam:11000010d336fe7 :  tar fram ekg mätare  
+14/03/2020 17:56:08 : Milo - steam:11000010d336fe7 :  sätter på ekg på mannen  
+14/03/2020 17:56:08 : Askeet. - steam:11000011998d81d :  pulsen sjunker enormt mycket  
+14/03/2020 17:56:26 : Milo - steam:11000010d336fe7 :  kollar puls och andning  
+14/03/2020 17:56:29 : Askeet. - steam:11000011998d81d :  pulsen sjunker enormt mycket  
+14/03/2020 17:56:45 : Askeet. - steam:11000011998d81d :  svårigheter med andningen!  
+14/03/2020 17:56:45 : Milo - steam:11000010d336fe7 :  kopplar bort elg  
+14/03/2020 17:57:12 : Wincent - steam:11000011201878a :  tar tag i mannen underifrån och försöker lyfta upp honom  
+14/03/2020 17:57:15 : Milo - steam:11000010d336fe7 :  stoppar in ekg mäare och first aid väskan  
+14/03/2020 17:57:31 : Askeet. - steam:11000011998d81d :  spills blod  
+14/03/2020 17:57:49 : Wincent - steam:11000011201878a :  lägger in mannen i baksätet  
+14/03/2020 18:02:33 : THEET.- - steam:11000010180b93b :  drar ner byxorna och pissar på polisbilen  
+14/03/2020 18:09:36 : Ralladin - steam:11000010a362fff :  tar nycklarna  
+14/03/2020 18:09:59 : THEET.- - steam:11000010180b93b :  hög som ett hus  
+14/03/2020 18:11:57 : THEET.- - steam:11000010180b93b :  kollar på dennis o blinkar  
+14/03/2020 18:14:17 : Milo - steam:11000010d336fe7 :  sätter bälte på mannen  
+14/03/2020 18:15:21 : THEET.- - steam:11000010180b93b :  känner sig äcklad  
+14/03/2020 18:15:44 : THEET.- - steam:11000010180b93b :  försöker med handklovarna att öppna bakdörren, den är låst  
+14/03/2020 18:17:43 : Ralladin - steam:11000010a362fff :  greenstreet  
+14/03/2020 18:18:41 : THEET.- - steam:11000010180b93b :  kannabis är i pungen  
+14/03/2020 18:19:24 : Wincent - steam:11000011201878a :  känner längs mannens kropp  
+14/03/2020 18:25:16 : THEET.- - steam:11000010180b93b :  signerar F.B  
+14/03/2020 18:26:43 : THEET.- - steam:11000010180b93b :  rycker i dörren  
+14/03/2020 19:07:03 : Maaaaaax - steam:1100001148a0303 :  Tar fram Aktuväska & Syrgasväska.  
+14/03/2020 19:07:20 : Maaaaaax - steam:1100001148a0303 :  Ställer ner väskerna.  
+14/03/2020 19:07:30 : Duvan - steam:11000011594e044 :  spritar rent bår  
+14/03/2020 19:07:46 : Duvan - steam:11000011594e044 :  förbereder ekgsladdar  
+14/03/2020 19:09:20 : YONTANA - steam:11000010bcefa9e :  håller om gisslna  
+14/03/2020 19:10:44 : YONTANA - steam:11000010bcefa9e :  viskar poppa dom  
+14/03/2020 19:11:21 : Hublot! - steam:110000103a7d6cd :  drar ut passageraren ur bilen på backen  
+14/03/2020 19:11:29 : Duvan - steam:11000011594e044 :  lyfter på tröjan vid ryggen  
+14/03/2020 19:11:46 : Duvan - steam:11000011594e044 :  känner efter på höger sida  
+14/03/2020 19:12:38 : Hublot! - steam:110000103a7d6cd :  drar ut passageraren ur bilen på backen  
+14/03/2020 19:12:42 : Duvan - steam:11000011594e044 :  tar av ena handsken  
+14/03/2020 19:12:49 : Duvan - steam:11000011594e044 :  tar runt handleden  
+14/03/2020 19:13:19 : Askeet. - steam:11000011998d81d :  bra puls  
+14/03/2020 19:13:23 : Hublot! - steam:110000103a7d6cd :  tar av bältet och sliter ut personen  
+14/03/2020 19:14:09 : Duvan - steam:11000011594e044 :  tar stetoskop  
+14/03/2020 19:14:22 : Hublot! - steam:110000103a7d6cd :  öppnar dörren och känner om mannen har något vapen på sig  
+14/03/2020 19:14:37 : Duvan - steam:11000011594e044 :  lyfter tröjan lätt, sätter stetoskopet emot vänster bröst  
+14/03/2020 19:15:02 : Duvan - steam:11000011594e044 :  lyssnar på hjärtats slag  
+14/03/2020 19:15:13 : Askeet. - steam:11000011998d81d :  hjärtan slår bra!  
+14/03/2020 19:15:33 : Duvan - steam:11000011594e044 :  sätter stetoskopet på vänster sida rygg  
+14/03/2020 19:15:53 : Duvan - steam:11000011594e044 :  kontrollerar andning  
+14/03/2020 19:16:11 : xyz - steam:11000010040a1a5 :  tar ut pistolen ur handsfacket  
+14/03/2020 19:17:07 : Milo - steam:11000010d336fe7 :  bra puls bra andning  
+14/03/2020 19:17:18 : Milo - steam:11000010d336fe7 :  tog i västen  
+14/03/2020 19:17:43 : Hublot! - steam:110000103a7d6cd :  känner på pulsen på mannen i bilen  
+14/03/2020 19:18:35 : Maaaaaax - steam:1100001148a0303 :  Tar fram Aktuväska & Syrgasväska.  
+14/03/2020 19:18:43 : Maaaaaax - steam:1100001148a0303 :  Ställer ner väskerna.  
+14/03/2020 19:18:45 : Duvan - steam:11000011594e044 :  kontrollerar puls  
+14/03/2020 19:19:11 : Duvan - steam:11000011594e044 :  kopplar bort västen  
+14/03/2020 19:19:29 : Hublot! - steam:110000103a7d6cd :  känner på pulsen på mannen i bilen  
+14/03/2020 19:19:39 : xyz - steam:11000010040a1a5 :  svag puls  
+14/03/2020 19:20:02 : Duvan - steam:11000011594e044 :  tar av handsken och känner på pulsen  
+14/03/2020 19:20:04 : YONTANA - steam:11000010bcefa9e :  avsvimmad  
+14/03/2020 19:20:10 : Milo - steam:11000010d336fe7 :  stabil  
+14/03/2020 19:20:16 : Maaaaaax - steam:1100001148a0303 :  Kollar över mannen i bilen, ser jag några synliga skador?  
+14/03/2020 19:20:18 : Hublot! - steam:110000103a7d6cd :  tar fram en kofot  
+14/03/2020 19:20:41 : Milo - steam:11000010d336fe7 :  knäpper upp  
+14/03/2020 19:20:51 : YONTANA - steam:11000010bcefa9e :  skjuten i axeln  
+14/03/2020 19:20:52 : Hublot! - steam:110000103a7d6cd :  trycker in kofoton och bänder up  
+14/03/2020 19:20:55 : Duvan - steam:11000011594e044 :  känner efter där skottet blev träffat  
+14/03/2020 19:20:57 : Milo - steam:11000010d336fe7 :  blå märken på bröstet  
+14/03/2020 19:21:24 : Wincent - steam:11000011201878a :  bänder upp taket  
+14/03/2020 19:21:27 : Duvan - steam:11000011594e044 :  tar stetoskopet  
+14/03/2020 19:21:34 : Duvan - steam:11000011594e044 :  sätter på vänster sida rygg  
+14/03/2020 19:21:40 : xyz - steam:11000010040a1a5 :  skott i axeln  
+14/03/2020 19:21:43 : Maaaaaax - steam:1100001148a0303 :  Tar av väskan & masken.  
+14/03/2020 19:21:45 : Duvan - steam:11000011594e044 :  lyssnar på andning  
+14/03/2020 19:21:56 : YONTANA - steam:11000010bcefa9e :  huvet hänger ner  
+14/03/2020 19:22:00 : YONTANA - steam:11000010bcefa9e :  blöder från axeln  
+14/03/2020 19:22:08 : Maaaaaax - steam:1100001148a0303 :  Kollar över skottvästen, är den kevlar eller metallplatta?  
+14/03/2020 19:22:19 : xyz - steam:11000010040a1a5 :  kevlar  
+14/03/2020 19:22:20 : Duvan - steam:11000011594e044 :  lyssnar på andning  
+14/03/2020 19:22:28 : Milo - steam:11000010d336fe7 :  bra andning  
+14/03/2020 19:22:38 : Maaaaaax - steam:1100001148a0303 :  Tar fram en tungsax och börjar klippa upp västen.  
+14/03/2020 19:23:07 : Maaaaaax - steam:1100001148a0303 :  tar fram ett Tornique-kit  
+14/03/2020 19:23:32 : Maaaaaax - steam:1100001148a0303 :  Spänner fast Tornique:n runt axeln och tittar om blödninger stoppas.  
+14/03/2020 19:23:42 : Maaaaaax - steam:1100001148a0303 :  Kontrollerar puls & andning.  
+14/03/2020 19:23:48 : xyz - steam:11000010040a1a5 :  blödningen har stoppats  
+14/03/2020 19:24:02 : Maaaaaax - steam:1100001148a0303 :  Tar fram bandage och lindrar om axeln.  
+14/03/2020 19:24:21 : Duvan - steam:11000011594e044 :  tar fram brits  
+14/03/2020 19:24:22 : YONTANA - steam:11000010bcefa9e :  blöder från axeln  
+14/03/2020 19:24:25 : YONTANA - steam:11000010bcefa9e :  huvet hänger ner  
+14/03/2020 19:24:32 : YONTANA - steam:11000010bcefa9e :  avsvimmad  
+14/03/2020 19:24:37 : Duvan - steam:11000011594e044 :  placerar brevid  
+14/03/2020 19:24:54 : Hublot! - steam:110000103a7d6cd :  kollar puls  
+14/03/2020 19:24:56 : Maaaaaax - steam:1100001148a0303 :  Kontrollerar puls & andning.  
+14/03/2020 19:25:09 : xyz - steam:11000010040a1a5 :  bättre puls  
+14/03/2020 19:25:13 : xyz - steam:11000010040a1a5 :  bra andning  
+14/03/2020 19:26:09 : Duvan - steam:11000011594e044 :  hjälper mannen över på britsen  
+14/03/2020 19:26:12 : Wincent - steam:11000011201878a :  tar upp pistolen  
+14/03/2020 19:26:14 : Maaaaaax - steam:1100001148a0303 :  Lyfter  
+14/03/2020 19:26:23 : Maaaaaax - steam:1100001148a0303 :  Spänner fast mannen.  
+14/03/2020 19:27:29 : Duvan - steam:11000011594e044 :  tar av hjälmen¨  
+14/03/2020 19:27:40 : Duvan - steam:11000011594e044 :  klipper upp tröjan  
+14/03/2020 19:28:02 : Duvan - steam:11000011594e044 :  tar en tornique och spänner fast över skotthålwt  
+14/03/2020 19:28:33 : Duvan - steam:11000011594e044 :  kontrollerar skotthål  
+14/03/2020 19:28:44 : YONTANA - steam:11000010bcefa9e :  gått igenom axeln  
+14/03/2020 19:28:52 : Duvan - steam:11000011594e044 :  sätter på tryckförband  
+14/03/2020 19:29:15 : Duvan - steam:11000011594e044 :  kontrollerar puls  
+14/03/2020 19:29:26 : YONTANA - steam:11000010bcefa9e :  bra puls och andning  
+14/03/2020 19:29:47 : Maaaaaax - steam:1100001148a0303 :  Rullar ur båren.  
+14/03/2020 19:29:51 : Duvan - steam:11000011594e044 :  tar fram morfin  
+14/03/2020 19:30:00 : Duvan - steam:11000011594e044 :  ger 0,5 mg morfin  
+14/03/2020 19:30:06 : YONTANA - steam:11000010bcefa9e :  ger ingen effekt  
+14/03/2020 19:30:07 : Milo - steam:11000010d336fe7 :  tar fram en ny väst  
+14/03/2020 19:30:41 : Maaaaaax - steam:1100001148a0303 :  Klipper upp mannens tröja  
+14/03/2020 19:31:20 : Maaaaaax - steam:1100001148a0303 :  Kopplar upp elektroder på bröstkorgen.  
+14/03/2020 19:31:37 : Maaaaaax - steam:1100001148a0303 :  Kollar på skärmen, hur ser värderna ut?  
+14/03/2020 19:31:48 : xyz - steam:11000010040a1a5 :  ser bra ut  
+14/03/2020 19:32:29 : Duvan - steam:11000011594e044 :  hjälper mannen in i bilen  
+14/03/2020 19:32:56 : Wincent - steam:11000011201878a :  sätter handfängsel mellan mannens hand samt räcket  
+14/03/2020 19:33:39 : xyz - steam:11000010040a1a5 :  medvetslös  
+14/03/2020 19:34:31 : Duvan - steam:11000011594e044 :  tar en brits  
+14/03/2020 19:34:50 : Duvan - steam:11000011594e044 :  hjälper mannen på britsen  
+14/03/2020 19:34:50 : Maaaaaax - steam:1100001148a0303 :  Tar av Tornique:n börjar det blöda igen?  
+14/03/2020 19:34:56 : xyz - steam:11000010040a1a5 :  nej  
+14/03/2020 19:35:14 : Maaaaaax - steam:1100001148a0303 :  Kollar på axeln, några nerver eller liknande som gått av?  
+14/03/2020 19:35:21 : Duvan - steam:11000011594e044 :  hjälper mannen över  
+14/03/2020 19:35:22 : xyz - steam:11000010040a1a5 :  negativt  
+14/03/2020 19:35:31 : Maaaaaax - steam:1100001148a0303 :  Är benet brutet i axeln?  
+14/03/2020 19:35:40 : xyz - steam:11000010040a1a5 :  negativt  
+14/03/2020 19:35:45 : Duvan - steam:11000011594e044 :  kopplar på ekg  
+14/03/2020 19:36:02 : Duvan - steam:11000011594e044 :  sätter på en pulsmätare  
+14/03/2020 19:36:16 : YONTANA - steam:11000010bcefa9e :  bra puls ¨  
+14/03/2020 19:36:16 : Duvan - steam:11000011594e044 :  kontrollerar puls och andning  
+14/03/2020 19:36:16 : Wincent - steam:11000011201878a :  letar efter ett legitimation.  
+14/03/2020 19:36:28 : YONTANA - steam:11000010bcefa9e :  andning är okej  
+14/03/2020 19:36:33 : Wincent - steam:11000011201878a :  letar efter ett legitimation.  
+14/03/2020 19:36:38 : Duvan - steam:11000011594e044 :  kopplar på syrmask  
+14/03/2020 19:36:47 : Duvan - steam:11000011594e044 :  kontrollerar hjärtfrekvens  
+14/03/2020 19:36:49 : YONTANA - steam:11000010bcefa9e :  andning förbättras  
+14/03/2020 19:36:55 : YONTANA - steam:11000010bcefa9e :  bra hjärt rytm  
+14/03/2020 19:37:04 : Duvan - steam:11000011594e044 :  tar sårrengörning  
+14/03/2020 19:37:25 : Duvan - steam:11000011594e044 :  tar fram pincett och suturkit  
+14/03/2020 19:37:27 : Maaaaaax - steam:1100001148a0303 :  Kollar om mannen fortfarande är medvetslös.  
+14/03/2020 19:37:35 : xyz - steam:11000010040a1a5 :  medvetslös  
+14/03/2020 19:37:38 : Duvan - steam:11000011594e044 :  gör renr tunom skotthålet  
+14/03/2020 19:37:45 : chrono - steam:110000105dbc118 :  skakar på cykeln  
+14/03/2020 19:37:56 : chrono - steam:110000105dbc118 :  slår hårt med handflatan på sätet  
+14/03/2020 19:37:58 : YONTANA - steam:11000010bcefa9e :  små splitter i såret  
+14/03/2020 19:38:05 : Maaaaaax - steam:1100001148a0303 :  Tar fram 5mg Morfin.  
+14/03/2020 19:38:28 : Maaaaaax - steam:1100001148a0303 :  Kopplar på en infart i armvecket (PVK)  
+14/03/2020 19:38:31 : Duvan - steam:11000011594e044 :  tar bort splitter  
+14/03/2020 19:38:45 : Maaaaaax - steam:1100001148a0303 :  Administrerar 2mg Mofrin in i PVK:n  
+14/03/2020 19:38:47 : YONTANA - steam:11000010bcefa9e :  blöder  
+14/03/2020 19:38:51 : xyz - steam:11000010040a1a5 :  börjar vakna upp  
+14/03/2020 19:38:59 : Duvan - steam:11000011594e044 :  gör rent  
+14/03/2020 19:39:07 : Duvan - steam:11000011594e044 :  kontrollerar sprukna artärer  
+14/03/2020 19:39:25 : YONTANA - steam:11000010bcefa9e :  blöder från sprukna artärer  
+14/03/2020 19:39:39 : Duvan - steam:11000011594e044 :  tar suturkitet och syr ihop artärerna  
+14/03/2020 19:39:46 : YONTANA - steam:11000010bcefa9e :  blödning stoppad  
+14/03/2020 19:40:04 : Duvan - steam:11000011594e044 :  gör rent runt skotthålet igen  
+14/03/2020 19:40:17 : Duvan - steam:11000011594e044 :  syr ihop skotthålet  
+14/03/2020 19:40:26 : Duvan - steam:11000011594e044 :  1/6  
+14/03/2020 19:40:32 : Duvan - steam:11000011594e044 :  2/6  
+14/03/2020 19:40:38 : Duvan - steam:11000011594e044 :  3/6  
+14/03/2020 19:40:42 : Duvan - steam:11000011594e044 :  4/6  
+14/03/2020 19:41:25 : Duvan - steam:11000011594e044 :  5/6  
+14/03/2020 19:41:29 : Duvan - steam:11000011594e044 :  6/6  
+14/03/2020 19:41:32 : Wincent - steam:11000011201878a :  släpper på handbojorna mellan räcket och handen  
+14/03/2020 19:41:42 : YONTANA - steam:11000010bcefa9e :  god andning bra hjärt rytm , blödning stoppad  
+14/03/2020 19:42:17 : Duvan - steam:11000011594e044 :  rengör utgångspunkten  
+14/03/2020 19:42:23 : Maaaaaax - steam:1100001148a0303 :  Tar ut PVK:n ur armvecket.  
+14/03/2020 19:42:31 : Duvan - steam:11000011594e044 :  kontrollerar efter splitter  
+14/03/2020 19:42:40 : YONTANA - steam:11000010bcefa9e :  inget splitter kvar  
+14/03/2020 19:42:42 : Maaaaaax - steam:1100001148a0303 :  Slänger den använda PVK:n  
+14/03/2020 19:42:56 : Duvan - steam:11000011594e044 :  kontrollerar sprukna artärer  
+14/03/2020 19:42:57 : YONTANA - steam:11000010bcefa9e :  dock förlorat en del blod  
+14/03/2020 19:43:07 : Duvan - steam:11000011594e044 :  kontrollerar puls igen  
+14/03/2020 19:43:08 : YONTANA - steam:11000010bcefa9e :  artärer reparerade  
+14/03/2020 19:43:09 : Maaaaaax - steam:1100001148a0303 :  Slänger dom använda handskarna.  
+14/03/2020 19:43:14 : Maaaaaax - steam:1100001148a0303 :  Spritar händerna.  
+14/03/2020 19:43:20 : Maaaaaax - steam:1100001148a0303 :  Tar på nya handskar.  
+14/03/2020 19:43:22 : YONTANA - steam:11000010bcefa9e :  pulsen är bra igen och andningen  
+14/03/2020 19:43:27 : YONTANA - steam:11000010bcefa9e :  stabil hjärt rytm  
+14/03/2020 19:43:27 : Maaaaaax - steam:1100001148a0303 :  Spritar av Handskarna.  
+14/03/2020 19:43:51 : Duvan - steam:11000011594e044 :  syr ihop skotthålet  
+14/03/2020 19:43:57 : Duvan - steam:11000011594e044 :  1/6  
+14/03/2020 19:44:01 : Duvan - steam:11000011594e044 :  2/6  
+14/03/2020 19:44:05 : Duvan - steam:11000011594e044 :  3/6  
+14/03/2020 19:44:11 : Duvan - steam:11000011594e044 :  4/6  
+14/03/2020 19:44:15 : Duvan - steam:11000011594e044 :  5/6  
+14/03/2020 19:44:18 : Duvan - steam:11000011594e044 :  6/6  
+14/03/2020 19:44:24 : Duvan - steam:11000011594e044 :  sätter på kompress  
+14/03/2020 19:44:45 : Duvan - steam:11000011594e044 :  kontrollerar efter ytliga skador på kroppen  
+14/03/2020 19:45:22 : YONTANA - steam:11000010bcefa9e :  inga ytligare skador  
+14/03/2020 19:46:02 : Duvan - steam:11000011594e044 :  kopplar på vätskedrivande  
+14/03/2020 19:46:14 : Latitud355 - steam:110000114ac6a45 :  provar lyfta cykel men den är för tung  
+14/03/2020 19:46:14 : chrono - steam:110000105dbc118 :  lyfter på bakdäcket  
+14/03/2020 19:46:33 : Duvan - steam:11000011594e044 :  drar bort sladdarna från maskinen  
+14/03/2020 19:46:45 : Duvan - steam:11000011594e044 :  flyttar över hnom på ambulansbritsen igen  
+14/03/2020 19:46:46 : Latitud355 - steam:110000114ac6a45 :  lyfter cykel till bagaelyckan  
+14/03/2020 19:46:50 : chrono - steam:110000105dbc118 :  lyfter  
+14/03/2020 19:47:08 : Duvan - steam:11000011594e044 :  flyttar över  
+14/03/2020 19:47:16 : Maaaaaax - steam:1100001148a0303 :  Ser trött ut.  
+14/03/2020 19:47:24 : Duvan - steam:11000011594e044 :  kopplar upp honom till ekg maskinen  
+14/03/2020 19:47:41 : Duvan - steam:11000011594e044 :  kontrollerar värden på skärmen  
+14/03/2020 19:47:50 : YONTANA - steam:11000010bcefa9e :  stabila värden  
+14/03/2020 19:48:27 : Wincent - steam:11000011201878a :  sätter ett handfängsel i foten och räcket  
+14/03/2020 19:48:34 : Maaaaaax - steam:1100001148a0303 :  Häller upp en kopp kaffe.  
+14/03/2020 19:49:42 : Duvan - steam:11000011594e044 :  tvättar händerna, spritar och sätter på nya handskar  
+14/03/2020 19:50:56 : Maaaaaax - steam:1100001148a0303 :  Slänger kaffe muggen  
+14/03/2020 19:51:03 : Wincent - steam:11000011201878a :  kontrollerar om mannen är vaken.  
+14/03/2020 19:51:13 : YONTANA - steam:11000010bcefa9e :  fortfarande inte vaken  
+14/03/2020 19:51:20 : YONTANA - steam:11000010bcefa9e :  legg i fickan  
+14/03/2020 19:51:23 : Maaaaaax - steam:1100001148a0303 :  Kontrollerar Syrgasväskan.  
+14/03/2020 19:55:45 : YONTANA - steam:11000010bcefa9e :  fortfarande inte vaken  
+14/03/2020 19:55:47 : YONTANA - steam:11000010bcefa9e :  legg i fickan  
+14/03/2020 19:55:50 : YONTANA - steam:11000010bcefa9e :  legg i fickan  
+14/03/2020 19:55:53 : YONTANA - steam:11000010bcefa9e :  legg i fickan  
+14/03/2020 19:56:08 : Milo - steam:11000010d336fe7 :  kollar efter id på mannen  
+14/03/2020 19:57:29 : Duvan - steam:11000011594e044 :  kontrollerar puls  
+14/03/2020 19:57:38 : Duvan - steam:11000011594e044 :  kollar värden  
+14/03/2020 20:00:52 : YONTANA - steam:11000010bcefa9e :  vaknar till  
+14/03/2020 20:04:26 : Duvan - steam:11000011594e044 :  kollar värden  
+14/03/2020 20:04:33 : YONTANA - steam:11000010bcefa9e :  stabila värden  
+14/03/2020 20:04:37 : YONTANA - steam:11000010bcefa9e :  vaknar till  
+14/03/2020 20:04:44 : Duvan - steam:11000011594e044 :  kollar det vätskedrivande  
+14/03/2020 20:05:34 : Maaaaaax - steam:1100001148a0303 :  Tar fram en Infart (PVK) & En morfin spruta.  
+14/03/2020 20:05:45 : Maaaaaax - steam:1100001148a0303 :  Rullar upp ärmen på tröjan.  
+14/03/2020 20:05:59 : Maaaaaax - steam:1100001148a0303 :  Spritar av armväcket.  
+14/03/2020 20:06:11 : Maaaaaax - steam:1100001148a0303 :  Sätter in Infarten.  
+14/03/2020 20:06:25 : Maaaaaax - steam:1100001148a0303 :  Administrerar 0.5 mg Morfin.  
+14/03/2020 20:06:52 : Maaaaaax - steam:1100001148a0303 :  Kollar så att värderna inte har försämrats.  
+14/03/2020 20:07:06 : YONTANA - steam:11000010bcefa9e :  ser ut att vara stabilt  
+14/03/2020 20:11:07 : Maaaaaax - steam:1100001148a0303 :  Tar av PVK:n  
+14/03/2020 20:11:08 : Duvan - steam:11000011594e044 :  tar bort ekg och pulsmätare  
+14/03/2020 20:11:15 : Maaaaaax - steam:1100001148a0303 :  Tar fram ett plåster.  
+14/03/2020 20:11:21 : Duvan - steam:11000011594e044 :  torkar rent  
+14/03/2020 20:11:26 : Maaaaaax - steam:1100001148a0303 :  Sätter plåstret i armväcket.  
+14/03/2020 20:11:50 : Duvan - steam:11000011594e044 :  kopplar bort vätskedrivande  
+14/03/2020 20:12:08 : Duvan - steam:11000011594e044 :  tvättar rent  
+14/03/2020 20:12:24 : Duvan - steam:11000011594e044 :  sätter på plåster  
+14/03/2020 20:12:31 : Hublot! - steam:110000103a7d6cd :  låser upp handbojorna från sängen och foten  
+14/03/2020 20:13:45 : Hublot! - steam:110000103a7d6cd :  öppnar dörren och hjälper yoni in  
+14/03/2020 20:14:08 : Hublot! - steam:110000103a7d6cd :  hjälper på med bältet  
+14/03/2020 20:15:28 : Maaaaaax - steam:1100001148a0303 :  kollar ut.  
+14/03/2020 20:16:06 : YONTANA - steam:11000010bcefa9e :  blöder från ögonbrytet efter fallet  
+14/03/2020 20:17:06 : YONTANA - steam:11000010bcefa9e :  känner sig bojjad  
+14/03/2020 20:26:08 : YONTANA - steam:11000010bcefa9e :  sträcker sig efter hasses väst och drar han skalle mot cell gallren hastigt  
+14/03/2020 20:26:40 : YONTANA - steam:11000010bcefa9e :  tar teaseren från olivers hylster  
+14/03/2020 20:27:40 : YONTANA - steam:11000010bcefa9e :  skallar eric  
+14/03/2020 20:31:05 : YONTANA - steam:11000010bcefa9e :  tar tag i olivers väst och dunkar han mot gallret upprepade gånger  
+14/03/2020 20:31:22 : Hublot! - steam:110000103a7d6cd :  håller för näsan  
+14/03/2020 20:31:29 : YONTANA - steam:11000010bcefa9e :  svimmar av  
+14/03/2020 20:31:49 : YONTANA - steam:11000010bcefa9e :  får ep anfall  
+14/03/2020 20:32:00 : YONTANA - steam:11000010bcefa9e :  ligger på marken  
+14/03/2020 20:32:25 : Hublot! - steam:110000103a7d6cd :  tar papper och stoppar upp i näsan  
+14/03/2020 20:33:00 : YONTANA - steam:11000010bcefa9e :  börjar tugga fradga  
+14/03/2020 20:33:20 : Wincent - steam:11000011201878a :  lägger mannen i stabilt sidoläge  
+14/03/2020 20:34:08 : Hublot! - steam:110000103a7d6cd :  har papper i näsan  
+14/03/2020 20:34:42 : YONTANA - steam:11000010bcefa9e :  avsvimamd  
+14/03/2020 20:34:49 : YONTANA - steam:11000010bcefa9e :  rinner fradga ur munnen  
+14/03/2020 20:36:03 : YONTANA - steam:11000010bcefa9e :  avsvimmad  
+14/03/2020 20:36:07 : Duvan - steam:11000011594e044 :  kollar puls  
+14/03/2020 20:36:12 : YONTANA - steam:11000010bcefa9e :  rinner fradga ur munnen  
+14/03/2020 20:36:21 : Duvan - steam:11000011594e044 :  tvättar bort  
+14/03/2020 20:36:22 : YONTANA - steam:11000010bcefa9e :  krampar inte längre  
+14/03/2020 20:36:32 : Duvan - steam:11000011594e044 :  kollar puls och andning  
+14/03/2020 20:36:44 : YONTANA - steam:11000010bcefa9e :  bra andning och puls blöder ur munnen  
+14/03/2020 20:36:49 : YONTANA - steam:11000010bcefa9e :  bitit sig i kinderna  
+14/03/2020 20:36:58 : Duvan - steam:11000011594e044 :  tar bort strumpan ur munnen  
+14/03/2020 20:37:13 : Duvan - steam:11000011594e044 :  kopplar på en pvk  
+14/03/2020 20:37:39 : Duvan - steam:11000011594e044 :  fäller ut ambulansbritsen  
+14/03/2020 20:38:27 : YONTANA - steam:11000010bcefa9e :  ligger på ambulans britsen  
+14/03/2020 20:39:49 : Milo - steam:11000010d336fe7 :  knäcker tbx näsan  
+14/03/2020 20:40:27 : Duvan - steam:11000011594e044 :  drar in britsen i bilen  
+14/03/2020 20:40:33 : Duvan - steam:11000011594e044 :  spänner fast honom  
+14/03/2020 20:41:02 : Duvan - steam:11000011594e044 :  kopplar på ekg  
+14/03/2020 20:41:09 : Duvan - steam:11000011594e044 :  sätter på pulsmätare  
+14/03/2020 20:42:39 : Duvan - steam:11000011594e044 :  kopplar loss vritsen  
+14/03/2020 20:42:45 : Duvan - steam:11000011594e044 :  drar ut britsen  
+14/03/2020 20:43:18 : Duvan - steam:11000011594e044 :  flyttar över  
+14/03/2020 20:43:37 : Duvan - steam:11000011594e044 :  kopplar upp honom till skärmen  
+14/03/2020 20:43:46 : Duvan - steam:11000011594e044 :  kontrollerar puls och andning  
+14/03/2020 20:44:12 : YONTANA - steam:11000010bcefa9e :  bra andning och puls  
+14/03/2020 20:44:23 : Duvan - steam:11000011594e044 :  sätter bomullstuss vid blödning i kinden  
+14/03/2020 20:44:32 : YONTANA - steam:11000010bcefa9e :  bitit sönder sidorna av kinderna inne i munnen  
+14/03/2020 20:44:33 : Duvan - steam:11000011594e044 :  tar fram elektroder  
+14/03/2020 20:44:53 : Duvan - steam:11000011594e044 :  kopplar på vid huvudet  
+14/03/2020 20:45:05 : Duvan - steam:11000011594e044 :  kontrollerar hjärnfrekvens  
+14/03/2020 20:45:13 : Duvan - steam:11000011594e044 :  tar syrmask, kiopplar på  
+14/03/2020 20:45:33 : YONTANA - steam:11000010bcefa9e :  ojämn hjärtrytm  
+14/03/2020 20:45:39 : YONTANA - steam:11000010bcefa9e :  andning ökar  
+14/03/2020 20:45:54 : YONTANA - steam:11000010bcefa9e :  vanlig hjärt klappning  
+14/03/2020 20:48:39 : Duvan - steam:11000011594e044 :  kontrollerar värden  
+14/03/2020 20:48:48 : YONTANA - steam:11000010bcefa9e :  har ett sår vid ögon brynet som de torkat blod från  
+14/03/2020 20:49:38 : Duvan - steam:11000011594e044 :  tar sårrengörning vid ögonbrynet  
+14/03/2020 20:49:48 : Duvan - steam:11000011594e044 :  kontrollerar skada  
+14/03/2020 20:50:27 : YONTANA - steam:11000010bcefa9e :  inge allvarlig skada  
+14/03/2020 20:50:40 : Duvan - steam:11000011594e044 :  kontrollerar hjärnfrekvens  
+14/03/2020 20:51:21 : YONTANA - steam:11000010bcefa9e :  jämn hjärtrytm  
+14/03/2020 20:51:33 : YONTANA - steam:11000010bcefa9e :  stabilt  
+14/03/2020 20:51:46 : Duvan - steam:11000011594e044 :  kontrollerar andning  
+14/03/2020 20:51:57 : YONTANA - steam:11000010bcefa9e :  andning stabil och pulsen stabil  
+14/03/2020 20:52:05 : YONTANA - steam:11000010bcefa9e :  sover  
+14/03/2020 20:52:12 : YONTANA - steam:11000010bcefa9e :  utslagen  
+14/03/2020 20:53:40 : Wincent - steam:11000011201878a :  sätter bojor på en hand och fäster i räcket  
+14/03/2020 21:17:53 : Wincent - steam:11000011201878a :  kopplar loss handfängsel från britsen och handen  
+14/03/2020 21:18:02 : chrono - steam:110000105dbc118 :  knackar på  
+14/03/2020 21:18:25 : chrono - steam:110000105dbc118 :  bankar hårt på dörren  
+14/03/2020 21:22:08 : chrono - steam:110000105dbc118 :  stänger bagageluckan fort  
+14/03/2020 21:53:28 : Ralladin - steam:11000010a362fff :  KAMACHO  
+14/03/2020 21:58:59 : Ralladin - steam:11000010a362fff :  sträcker fram handen  
+14/03/2020 22:00:10 : Ralladin - steam:11000010a362fff :  skriver under ägarbeviset  
+14/03/2020 22:00:20 : Latitud355 - steam:110000114ac6a45 :  tar fram nycklar till bilen  
+15/03/2020 14:58:29 : Wincent - steam:11000011201878a :  sätter på mig munskydd  
+15/03/2020 15:06:32 : Wincent - steam:11000011201878a :  letar efter ID-KOrt  
+15/03/2020 15:25:10 : Askeet. - steam:11000011998d81d :  tar styp tag  
+15/03/2020 15:25:22 : Askeet. - steam:11000011998d81d :  styper hårader  
+15/03/2020 15:25:28 : TikTok Kändis - steam:11000010af71b9b :  kämpar emot  
+15/03/2020 15:25:34 : Askeet. - steam:11000011998d81d :  gör hnm medvetslös  
+15/03/2020 15:25:47 : Askeet. - steam:11000011998d81d :  gör hnm medvetslös  
+15/03/2020 15:25:49 : Askeet. - steam:11000011998d81d :  gör hnm medvetslös'  
+15/03/2020 15:25:49 : Askeet. - steam:11000011998d81d :  gör hnm medvetslös'  
+15/03/2020 15:25:50 : Askeet. - steam:11000011998d81d :  gör hnm medvetslös'  
+15/03/2020 15:26:00 : Askeet. - steam:11000011998d81d :  knuffar ut hnm ur billen  
+15/03/2020 15:26:02 : TikTok Kändis - steam:11000010af71b9b :  gör person död  
+15/03/2020 15:28:13 : Askeet. - steam:11000011998d81d :  boxar hnm i ansiktet  
+15/03/2020 15:28:24 : Askeet. - steam:11000011998d81d :  boxar hnm i ansiktet  
+15/03/2020 15:28:25 : TikTok Kändis - steam:11000010af71b9b :  BOXAR TLBAKS  
+15/03/2020 15:28:49 : Askeet. - steam:11000011998d81d :  blöder lite lätt  
+15/03/2020 15:32:35 : Milo - steam:11000010d336fe7 :  kollar skador  
+15/03/2020 15:33:12 : Milo - steam:11000010d336fe7 :  kollar skador  
+15/03/2020 15:35:12 : Askeet. - steam:11000011998d81d :  ligger medvetslös  
+15/03/2020 15:35:43 : Askeet. - steam:11000011998d81d :  svullen ben  
+15/03/2020 15:36:01 : Milo - steam:11000010d336fe7 :  lägger lukt salt under näsan på personen  
+15/03/2020 15:39:31 : Wincent - steam:11000011201878a :  sätter på fängsel  
+15/03/2020 15:40:12 : Wincent - steam:11000011201878a :  kollar medvetande på mannen.  
+15/03/2020 15:40:20 : Askeet. - steam:11000011998d81d :  ba medvetande  
+15/03/2020 15:40:26 : Askeet. - steam:11000011998d81d :  bra medvetande  
+15/03/2020 17:56:38 : Oflyt - steam:11000013218e8b6 :  blöder  
+15/03/2020 19:22:03 : Wincent - steam:11000011201878a :  öppnar lådan  
+15/03/2020 19:22:23 : Wincent - steam:11000011201878a :  tar fram ett papper - Alkoholtillstånd.  
+15/03/2020 19:22:55 : Wincent - steam:11000011201878a :  Signerar - Erik Andersson  
+15/03/2020 19:23:22 : Wincent - steam:11000011201878a :  hämtar kopian  
+15/03/2020 19:24:24 : chrono - steam:110000105dbc118 :  håller i ett papper  
+15/03/2020 19:56:58 : YONTANA - steam:11000010bcefa9e :  skriver under med '' yoni yontana''  
+15/03/2020 20:02:41 : Hublot! - steam:110000103a7d6cd :  kollar upp fordonet  
+15/03/2020 20:03:55 : Wincent - steam:11000011201878a :  Hur ser tändningslåset ut?  
+15/03/2020 20:04:01 : TikTok Kändis - steam:11000010af71b9b :  traskig  
+15/03/2020 20:04:41 : Hublot! - steam:110000103a7d6cd :  vänder mannen om och belägger handfängsel  
+15/03/2020 20:05:04 : Hublot! - steam:110000103a7d6cd :  öppnar dörren åt mannen  
+15/03/2020 20:07:03 : Wincent - steam:11000011201878a :  hjälper mannen ut  
+15/03/2020 20:07:55 : TikTok Kändis - steam:11000010af71b9b :  blöder från huvet  
+15/03/2020 20:08:39 : Wincent - steam:11000011201878a :  Tar tryckförband  
+15/03/2020 20:08:43 : TikTok Kändis - steam:11000010af71b9b :  blöder från huvet  
+15/03/2020 20:09:05 : TikTok Kändis - steam:11000010af71b9b :  skallar  
+15/03/2020 20:09:18 : Hublot! - steam:110000103a7d6cd :  trycker mannen mot väggen  
+15/03/2020 20:09:35 : TikTok Kändis - steam:11000010af71b9b :  blöder mer från huvet  
+15/03/2020 20:09:35 : Wincent - steam:11000011201878a :  blöder från ögonbrynet  
+15/03/2020 20:10:22 : Wincent - steam:11000011201878a :  lindar bandage runt mitt huvud  
+15/03/2020 20:10:23 : Hublot! - steam:110000103a7d6cd :  lägger om med tryckförband runt huvudet  
+15/03/2020 20:10:27 : Wincent - steam:11000011201878a :  spänner åt med fästen  
+15/03/2020 20:11:03 : Hublot! - steam:110000103a7d6cd :  slår mannen med batongen i benet  
+15/03/2020 20:22:33 : Mirrox - steam:110000109c2ddf3 :  kollar vad det är för bil  
+15/03/2020 20:22:38 : Ralladin - steam:11000010a362fff :  kamacho  
+15/03/2020 20:22:41 : chrono - steam:110000105dbc118 :  tar upp en rum flaska och tar en klunk  
+15/03/2020 20:22:52 : r0nkovic - steam:110000109128b23 :  kliar i näsan, inte pillar  
+15/03/2020 20:23:29 : Oflyt - steam:11000013218e8b6 :  skriver under  
+15/03/2020 20:24:28 : Mirrox - steam:110000109c2ddf3 :  sparkar på skrivaren  
+15/03/2020 20:43:16 : Hublot! - steam:110000103a7d6cd :  tar på sig  
+15/03/2020 20:56:36 : Latitud355 - steam:110000114ac6a45 :  lägger fram anställningsavtal  
+15/03/2020 21:01:18 : Ralladin - steam:11000010a362fff :  pyu 255  
+15/03/2020 21:01:36 : Ralladin - steam:11000010a362fff :  pyu 255  
+15/03/2020 21:02:35 : TikTok Kändis - steam:11000010af71b9b :  låser  
+15/03/2020 21:05:42 : r0nkovic - steam:110000109128b23 :  kryssar ner porrsidorna  
+15/03/2020 21:29:28 : TikTok Kändis - steam:11000010af71b9b :  börjar spela in  
+15/03/2020 21:43:27 : ✪Mäcki✪ - steam:1100001071f8861 :  skallar finnen  
+15/03/2020 21:43:48 : TikTok Kändis - steam:11000010af71b9b :  blöder från huvvet  
+15/03/2020 21:55:59 : Hublot! - steam:110000103a7d6cd :  hjälper på med bältet  
+15/03/2020 21:59:36 : Wincent - steam:11000011201878a :  hämtar blocket  
+15/03/2020 21:59:43 : Hublot! - steam:110000103a7d6cd :  slår med batongen på benet  
+15/03/2020 22:02:20 : Ralladin - steam:11000010a362fff :  dör av corona  
+15/03/2020 22:11:00 : Ralladin - steam:11000010a362fff :  greenstreet  
